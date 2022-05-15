@@ -1,4 +1,4 @@
-### hii!👋
+### Eai!👋
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT, REACT NATIVE
-- 📫 How to reach me: instagram @gabrielsaintz
+- 🌱 Estou estudando HTML, CSS, JAVASCRIPT, REACT, REACT NATIVE
+- 📫 Fale comigo: @gabrielsaintz
