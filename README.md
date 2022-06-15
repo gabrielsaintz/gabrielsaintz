@@ -1,4 +1,4 @@
 ### Eai!👋
 
-- 🌱 Estou estudando HTML, CSS, JAVASCRIPT, REACT, REACT NATIVE
+- 🌱 Estou estudando JAVASCRIPT, REACT, REACT NATIVE, NODE JS
 - 📫 Fale comigo: @gabrielsaintz
