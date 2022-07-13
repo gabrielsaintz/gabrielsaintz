@@ -1,4 +1,9 @@
 ### Eai!👋
 
-- 🌱 Estou estudando JAVASCRIPT, REACT, REACT NATIVE, NODE JS
-- 📫 Fale comigo: @gabrielsaintz
+📌 Habilidades:
+- JavaScript
+- TypeScript
+- React e React Native
+- HTML5
+- CSS3 (TailwindCSS)
+- Node JS (Express, ejs)
