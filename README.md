@@ -26,7 +26,6 @@
 <a href="https://instagram.com/gabrielsaintz" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gabrielsaintz-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-
 </p>
 
 
