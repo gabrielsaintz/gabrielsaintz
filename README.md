@@ -9,7 +9,7 @@
 
 - 🧠 Estudando **Next.js e SOLID**
 
-- ⚙️ Habilidades de desenvolvimento : **TypeScript, ReactJS, NodeJS[...](https://gabrielsaintz.github.io/)**
+- ⚙️ Habilidades de desenvolvimento : **TypeScript, NextJS, NodeJS[...](https://gabrielsaintz.github.io/)**
 
 - 🌐 Mais sobre mim acesse meu Portfólio [gabrielsaintz.github.io](https://gabrielsaintz.github.io/)
 
