@@ -11,7 +11,7 @@
 
 - ⚙️ Habilidades de desenvolvimento : **TypeScript, NextJS, NodeJS[...](https://gabrielsaintz.github.io/)**
 
-- 🌐 Mais sobre mim acesse meu Portfólio [gabrielsaintz.github.io](https://gabrielsaintz.github.io/)
+- 🌐 Acesse meu Portfólio [gabrielsaintz.github.io](https://gabrielsaintz.github.io/)
 
 
 ## Redes Sociais
