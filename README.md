@@ -7,7 +7,7 @@
 
 - 🎓 Cursando Ciência da computação na **[UNIPE](https://www.unipe.edu.br/)**
 
-- 🧠 Estudando **SOLID e Arquitetura de software**
+- 🧠 Estudando **Next.js**
 
 - ⚙️ Habilidades de desenvolvimento : **TypeScript, NextJS, NodeJS[...](https://gabrielsaintz.github.io/)**
 
