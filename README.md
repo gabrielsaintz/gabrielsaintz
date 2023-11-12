@@ -3,15 +3,15 @@
 <h1 align="left">E aí, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Bem vindo ao meu GitHub!</h1>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsaintz&color=blueviolet" alt="Profile views" /> </p> 
 
-- 👨‍💻 **Desenvolvedor full-stack | TypeScript(Node.js/Next.js)**
+- 👨‍💻 **Desenvolvedor full-stack | TypeScript(Node.js/Next.js)**;
 
-- 🎓 Cursando Ciência da computação na **[UNIPE](https://www.unipe.edu.br/)**
+- 🎓 Cursando Ciência da computação;
 
-- 🧠 Estudando **Next.js**
+- 🧠 Estudando **Next.js**;
 
-- ⚙️ Habilidades de desenvolvimento : **TypeScript, NextJS, NodeJS[...](https://gabrielsaintz.github.io/)**
+- ⚙️ Habilidades de desenvolvimento : **TypeScript, NextJS, NodeJS[...](https://gabrielsaintz.github.io/)**;
 
-- 🌐 Acesse meu Site [gabrielsaintz.github.io](https://gabrielsaintz.github.io/)
+- 🌐 Acesse meu Site [gabrielsaintz.github.io](https://gabrielsaintz.github.io/).
 
 
 ## Redes Sociais
