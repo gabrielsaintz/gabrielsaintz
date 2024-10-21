@@ -14,18 +14,3 @@
 - 🌐 Acesse meu Site [gabrielsaintz.github.io](https://gabrielsaintz.github.io/).
 
 
-## Redes Sociais
-
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/gabsaintz" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gabsaintz-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/gabsaintz" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gabsaintz-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/gabrielsaintz" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gabrielsaintz-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
-
-
