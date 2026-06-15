@@ -7,10 +7,4 @@
 
 - 🎓 Cursando Ciência da computação;
 
-- 🧠 Estudando **React Native(Expo)**;
-
-- ⚙️ Habilidades de desenvolvimento : **TypeScript, NextJS, NodeJS[...](https://gabrielsaintz.github.io/#about)**;
-
-- 🌐 Acesse meu Site [gabrielsaintz.github.io](https://gabrielsaintz.github.io/).
-
 
